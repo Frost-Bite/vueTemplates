@@ -1,5 +1,5 @@
 # vueTemplates2
 
-Templates, components and code snippets for vue.js.
+Vue.js Templates, components and code snippets.
 
 Fragments as is.
